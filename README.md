@@ -1,5 +1,11 @@
 # Ansible Role: PHP-XDebug
 
+## NOTICE
+
+This fork is maintained only while the PR's are being merged upstream. It is not expected to have a full life, nor
+will it be supported in an ongoing way. If you need the fixes on this repo, please fork the original yourself, add
+this as an origin and cherry-pick the commits.
+
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-php-xdebug.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-php-xdebug)
 
 Installs PHP [XDebug](http://xdebug.org/) on Linux servers.
